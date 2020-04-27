@@ -8,9 +8,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Refreshable express router.",
   "devDependencies": {},
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/refreshable-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allnulled/refreshable-router/issues"
+  },
+  "homepage": "https://github.com/allnulled/refreshable-router#readme"
 }
